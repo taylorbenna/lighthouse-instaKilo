@@ -1,0 +1,400 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		34DD29241CECDA6700805723 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 34DD29231CECDA6700805723 /* main.m */; };
+		34DD29271CECDA6700805723 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 34DD29261CECDA6700805723 /* AppDelegate.m */; };
+		34DD292A1CECDA6700805723 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 34DD29291CECDA6700805723 /* ViewController.m */; };
+		34DD292D1CECDA6700805723 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34DD292B1CECDA6700805723 /* Main.storyboard */; };
+		34DD292F1CECDA6700805723 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34DD292E1CECDA6700805723 /* Assets.xcassets */; };
+		34DD29321CECDA6700805723 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34DD29301CECDA6700805723 /* LaunchScreen.storyboard */; };
+		34DD293D1CECDCC900805723 /* ImageViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 34DD293C1CECDCC900805723 /* ImageViewCell.m */; };
+		34DD29481CECE0F700805723 /* big_eyed_cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD293E1CECE0F700805723 /* big_eyed_cat.jpg */; };
+		34DD29491CECE0F700805723 /* cat_eating.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD293F1CECE0F700805723 /* cat_eating.jpg */; };
+		34DD294A1CECE0F700805723 /* cat_lap.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD29401CECE0F700805723 /* cat_lap.jpg */; };
+		34DD294B1CECE0F700805723 /* kitten_stripper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD29411CECE0F700805723 /* kitten_stripper.jpg */; };
+		34DD294C1CECE0F700805723 /* morty.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD29421CECE0F700805723 /* morty.jpg */; };
+		34DD294D1CECE0F700805723 /* penguin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD29431CECE0F700805723 /* penguin.jpg */; };
+		34DD294E1CECE0F700805723 /* shannon_falls.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD29441CECE0F700805723 /* shannon_falls.jpg */; };
+		34DD294F1CECE0F700805723 /* tangled.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD29451CECE0F700805723 /* tangled.jpg */; };
+		34DD29501CECE0F700805723 /* text_screen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD29461CECE0F700805723 /* text_screen.jpg */; };
+		34DD29511CECE0F700805723 /* time.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD29471CECE0F700805723 /* time.jpg */; };
+		34DD29551CECE2EE00805723 /* SectionReusableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 34DD29541CECE2EE00805723 /* SectionReusableView.m */; };
+		34DD29581CECE64E00805723 /* ImageObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 34DD29571CECE64E00805723 /* ImageObject.m */; };
+		34DD295E1CED1FE500805723 /* deer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD29591CED1FE500805723 /* deer.jpg */; };
+		34DD295F1CED1FE500805723 /* gamer_pup.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD295A1CED1FE500805723 /* gamer_pup.jpg */; };
+		34DD29601CED1FE500805723 /* puppy_couch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD295B1CED1FE500805723 /* puppy_couch.jpg */; };
+		34DD29611CED1FE500805723 /* chubby_puppy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD295C1CED1FE500805723 /* chubby_puppy.jpg */; };
+		34DD29621CED1FE500805723 /* alien.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34DD295D1CED1FE500805723 /* alien.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		34DD291F1CECDA6700805723 /* InstaKilo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstaKilo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		34DD29231CECDA6700805723 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		34DD29251CECDA6700805723 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		34DD29261CECDA6700805723 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		34DD29281CECDA6700805723 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		34DD29291CECDA6700805723 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		34DD292C1CECDA6700805723 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		34DD292E1CECDA6700805723 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		34DD29311CECDA6700805723 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		34DD29331CECDA6700805723 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34DD293B1CECDCC900805723 /* ImageViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageViewCell.h; sourceTree = "<group>"; };
+		34DD293C1CECDCC900805723 /* ImageViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageViewCell.m; sourceTree = "<group>"; };
+		34DD293E1CECE0F700805723 /* big_eyed_cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = big_eyed_cat.jpg; path = Images/big_eyed_cat.jpg; sourceTree = "<group>"; };
+		34DD293F1CECE0F700805723 /* cat_eating.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cat_eating.jpg; path = Images/cat_eating.jpg; sourceTree = "<group>"; };
+		34DD29401CECE0F700805723 /* cat_lap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cat_lap.jpg; path = Images/cat_lap.jpg; sourceTree = "<group>"; };
+		34DD29411CECE0F700805723 /* kitten_stripper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = kitten_stripper.jpg; path = Images/kitten_stripper.jpg; sourceTree = "<group>"; };
+		34DD29421CECE0F700805723 /* morty.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = morty.jpg; path = Images/morty.jpg; sourceTree = "<group>"; };
+		34DD29431CECE0F700805723 /* penguin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = penguin.jpg; path = Images/penguin.jpg; sourceTree = "<group>"; };
+		34DD29441CECE0F700805723 /* shannon_falls.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = shannon_falls.jpg; path = Images/shannon_falls.jpg; sourceTree = "<group>"; };
+		34DD29451CECE0F700805723 /* tangled.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tangled.jpg; path = Images/tangled.jpg; sourceTree = "<group>"; };
+		34DD29461CECE0F700805723 /* text_screen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = text_screen.jpg; path = Images/text_screen.jpg; sourceTree = "<group>"; };
+		34DD29471CECE0F700805723 /* time.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = time.jpg; path = Images/time.jpg; sourceTree = "<group>"; };
+		34DD29531CECE2EE00805723 /* SectionReusableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SectionReusableView.h; sourceTree = "<group>"; };
+		34DD29541CECE2EE00805723 /* SectionReusableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SectionReusableView.m; sourceTree = "<group>"; };
+		34DD29561CECE64E00805723 /* ImageObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageObject.h; sourceTree = "<group>"; };
+		34DD29571CECE64E00805723 /* ImageObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageObject.m; sourceTree = "<group>"; };
+		34DD29591CED1FE500805723 /* deer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = deer.jpg; path = ../../../../img/deer.jpg; sourceTree = "<group>"; };
+		34DD295A1CED1FE500805723 /* gamer_pup.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = gamer_pup.jpg; path = ../../../../img/gamer_pup.jpg; sourceTree = "<group>"; };
+		34DD295B1CED1FE500805723 /* puppy_couch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = puppy_couch.jpg; path = ../../../../img/puppy_couch.jpg; sourceTree = "<group>"; };
+		34DD295C1CED1FE500805723 /* chubby_puppy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = chubby_puppy.jpg; path = ../../../../img/chubby_puppy.jpg; sourceTree = "<group>"; };
+		34DD295D1CED1FE500805723 /* alien.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = alien.jpg; path = ../../../../img/alien.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		34DD291C1CECDA6700805723 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		34DD29161CECDA6700805723 = {
+			isa = PBXGroup;
+			children = (
+				34DD29211CECDA6700805723 /* InstaKilo */,
+				34DD29201CECDA6700805723 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		34DD29201CECDA6700805723 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				34DD291F1CECDA6700805723 /* InstaKilo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		34DD29211CECDA6700805723 /* InstaKilo */ = {
+			isa = PBXGroup;
+			children = (
+				34DD29251CECDA6700805723 /* AppDelegate.h */,
+				34DD29261CECDA6700805723 /* AppDelegate.m */,
+				34DD29281CECDA6700805723 /* ViewController.h */,
+				34DD29291CECDA6700805723 /* ViewController.m */,
+				34DD29561CECE64E00805723 /* ImageObject.h */,
+				34DD29571CECE64E00805723 /* ImageObject.m */,
+				34DD292B1CECDA6700805723 /* Main.storyboard */,
+				34DD29531CECE2EE00805723 /* SectionReusableView.h */,
+				34DD29541CECE2EE00805723 /* SectionReusableView.m */,
+				34DD293B1CECDCC900805723 /* ImageViewCell.h */,
+				34DD293C1CECDCC900805723 /* ImageViewCell.m */,
+				34DD29521CECE1EE00805723 /* Images */,
+				34DD292E1CECDA6700805723 /* Assets.xcassets */,
+				34DD29301CECDA6700805723 /* LaunchScreen.storyboard */,
+				34DD29331CECDA6700805723 /* Info.plist */,
+				34DD29221CECDA6700805723 /* Supporting Files */,
+			);
+			path = InstaKilo;
+			sourceTree = "<group>";
+		};
+		34DD29221CECDA6700805723 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				34DD29231CECDA6700805723 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		34DD29521CECE1EE00805723 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				34DD29591CED1FE500805723 /* deer.jpg */,
+				34DD295A1CED1FE500805723 /* gamer_pup.jpg */,
+				34DD295B1CED1FE500805723 /* puppy_couch.jpg */,
+				34DD295C1CED1FE500805723 /* chubby_puppy.jpg */,
+				34DD295D1CED1FE500805723 /* alien.jpg */,
+				34DD293E1CECE0F700805723 /* big_eyed_cat.jpg */,
+				34DD293F1CECE0F700805723 /* cat_eating.jpg */,
+				34DD29401CECE0F700805723 /* cat_lap.jpg */,
+				34DD29411CECE0F700805723 /* kitten_stripper.jpg */,
+				34DD29421CECE0F700805723 /* morty.jpg */,
+				34DD29431CECE0F700805723 /* penguin.jpg */,
+				34DD29441CECE0F700805723 /* shannon_falls.jpg */,
+				34DD29451CECE0F700805723 /* tangled.jpg */,
+				34DD29461CECE0F700805723 /* text_screen.jpg */,
+				34DD29471CECE0F700805723 /* time.jpg */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		34DD291E1CECDA6700805723 /* InstaKilo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 34DD29361CECDA6700805723 /* Build configuration list for PBXNativeTarget "InstaKilo" */;
+			buildPhases = (
+				34DD291B1CECDA6700805723 /* Sources */,
+				34DD291C1CECDA6700805723 /* Frameworks */,
+				34DD291D1CECDA6700805723 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = InstaKilo;
+			productName = InstaKilo;
+			productReference = 34DD291F1CECDA6700805723 /* InstaKilo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		34DD29171CECDA6700805723 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Taylor Benna";
+				TargetAttributes = {
+					34DD291E1CECDA6700805723 = {
+						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = F9TL8X93F7;
+					};
+				};
+			};
+			buildConfigurationList = 34DD291A1CECDA6700805723 /* Build configuration list for PBXProject "InstaKilo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 34DD29161CECDA6700805723;
+			productRefGroup = 34DD29201CECDA6700805723 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				34DD291E1CECDA6700805723 /* InstaKilo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		34DD291D1CECDA6700805723 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				34DD29491CECE0F700805723 /* cat_eating.jpg in Resources */,
+				34DD295E1CED1FE500805723 /* deer.jpg in Resources */,
+				34DD294F1CECE0F700805723 /* tangled.jpg in Resources */,
+				34DD294B1CECE0F700805723 /* kitten_stripper.jpg in Resources */,
+				34DD294C1CECE0F700805723 /* morty.jpg in Resources */,
+				34DD29321CECDA6700805723 /* LaunchScreen.storyboard in Resources */,
+				34DD29501CECE0F700805723 /* text_screen.jpg in Resources */,
+				34DD292F1CECDA6700805723 /* Assets.xcassets in Resources */,
+				34DD29621CED1FE500805723 /* alien.jpg in Resources */,
+				34DD29601CED1FE500805723 /* puppy_couch.jpg in Resources */,
+				34DD292D1CECDA6700805723 /* Main.storyboard in Resources */,
+				34DD29481CECE0F700805723 /* big_eyed_cat.jpg in Resources */,
+				34DD29611CED1FE500805723 /* chubby_puppy.jpg in Resources */,
+				34DD294D1CECE0F700805723 /* penguin.jpg in Resources */,
+				34DD294A1CECE0F700805723 /* cat_lap.jpg in Resources */,
+				34DD29511CECE0F700805723 /* time.jpg in Resources */,
+				34DD294E1CECE0F700805723 /* shannon_falls.jpg in Resources */,
+				34DD295F1CED1FE500805723 /* gamer_pup.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		34DD291B1CECDA6700805723 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				34DD29581CECE64E00805723 /* ImageObject.m in Sources */,
+				34DD293D1CECDCC900805723 /* ImageViewCell.m in Sources */,
+				34DD292A1CECDA6700805723 /* ViewController.m in Sources */,
+				34DD29271CECDA6700805723 /* AppDelegate.m in Sources */,
+				34DD29551CECE2EE00805723 /* SectionReusableView.m in Sources */,
+				34DD29241CECDA6700805723 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		34DD292B1CECDA6700805723 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				34DD292C1CECDA6700805723 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		34DD29301CECDA6700805723 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				34DD29311CECDA6700805723 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		34DD29341CECDA6700805723 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		34DD29351CECDA6700805723 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		34DD29371CECDA6700805723 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = InstaKilo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Taylor.InstaKilo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Debug;
+		};
+		34DD29381CECDA6700805723 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = InstaKilo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Taylor.InstaKilo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		34DD291A1CECDA6700805723 /* Build configuration list for PBXProject "InstaKilo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34DD29341CECDA6700805723 /* Debug */,
+				34DD29351CECDA6700805723 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		34DD29361CECDA6700805723 /* Build configuration list for PBXNativeTarget "InstaKilo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34DD29371CECDA6700805723 /* Debug */,
+				34DD29381CECDA6700805723 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 34DD29171CECDA6700805723 /* Project object */;
+}
